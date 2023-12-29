@@ -1,5 +1,5 @@
 mylogs.log
 ex1.html
-logs
-/logs.log
+logs/
 *.log
+ignore/  
